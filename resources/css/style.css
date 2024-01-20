@@ -24,3 +24,5 @@ a:visited {color: plum;
 /*mouse hover*/
 a:hover {color: blueviolet;
     text-decoration: underline;}
+
+#phone {padding: 20px;}
